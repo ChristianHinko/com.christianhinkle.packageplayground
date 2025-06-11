@@ -1,1 +1,1 @@
-# com.christianhinkle.unitypackageexample
+# com.christianhinkle.packageexample
