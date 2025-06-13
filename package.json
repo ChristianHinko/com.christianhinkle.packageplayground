@@ -1,7 +1,7 @@
 {
-  "name": "com.christianhinkle.packageexample",
+  "name": "com.christianhinkle.packageplayground",
   "version": "0.1.0",
-  "displayName": "Package Example",
-  "description": "Example of a Unity package.",
+  "displayName": "Package Playground",
+  "description": "A playground to experiment with Unity and packages.",
   "unity": "6000.1"
 }
